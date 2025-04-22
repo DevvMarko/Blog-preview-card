@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here](https://github.com/DevvMarko/Blog-preview-card/actions)
+- Solution URL: [click here](https://github.com/DevvMarko/Blog-preview-card)
 - Live Site URL: [click here](https://devvmarko.github.io/Blog-preview-card/)
 
 ## My process
